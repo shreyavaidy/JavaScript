@@ -1,0 +1,52 @@
+Discussion - 2.3.2016
+
+JSON
+
+{
+
+	“abc”:”def”,
+
+	“giri”:”shreya”
+
+}
+
+
+var buses = {
+
+	“tnagar”:[‘E51’,’18F’,’47A’],
+
+	“kilpauk”: [“51G”]
+
+};
+
+buses[“tnagar”]
+
+JSON : Javascript Script Object Notation
+
+var A = {
+
+	f: function(){
+
+	console.log(“123”);
+
+},
+
+};
+
+A.f()
+
+OOJS - Object Oriented Javascipt
+
+
+A lot of static content - buses and bus stops
+
+Where these stops are on a map
+
+How we can represent 
+
+Explore their API’s - 
+
+GoogleMaps, OpenStreetMap 
+
+map TNagar -> 
+
